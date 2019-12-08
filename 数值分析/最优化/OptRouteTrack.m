@@ -40,12 +40,12 @@ while tol > tolX && iter < itermax
     sigma = c + H*x0 - transpose(A)*y0;
     gama = transpose(y0)*w0;
     mu = delta*gama/m;
-    SA = [-H, A'; A, solveEquations(Y, W)];
-    SB = [c + H*x0 - A'*y0; b - A*x0 + mu*solveEquations(Y, ones(m,1))];
-    ds = solveEquations(SA, SB);
+    SA = [-H, A'; A, SolveEquations(Y, W)];
+    SB = [c + H*x0 - A'*y0; b - A*x0 + mu*SolveEquations(Y, ones(m,1))];
+    ds = SolveEquations(SA, SB);
     dx = ds(1 : length(x0));
     dy = ds((length(x0) + 1) : length(ds));
-    dw = solveEquations(Y, mu*ones(m,1) - Y*W*ones(m,1) - W*dy);
+    dw = SolveEquations(Y, mu*ones(m,1) - Y*W*ones(m,1) - W*dy);
     ry = - dy ./ y0;
     rw = -dw ./ w0;
     vec = [ry; rw];
@@ -64,15 +64,16 @@ end
 xv = x0;
 fv = transpose(xv)*H*xv/2 + transpose(c)*xv;
 
-function x = solveEquations(A, y)
+function x = SolveEquations(A, y)
+[m, n] = size(A);
 [u, s, v] = svd(A);
 s(s < 1e-10) = 0;
-for i = 1 : length(s)
+for i = 1 : min(m, n)
     if s(i, i) > 0
         s(i, i) = 1 / s(i, i);
     end
 end
-x = v * s * u' * y;
+x = v * s' * u' * y;
     
 
     
