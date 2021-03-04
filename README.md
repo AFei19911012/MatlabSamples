@@ -1,100 +1,72 @@
 # MatlabSamples
-Matlab各种学习案例。
+Matlab Code for learning.
+
+## AppDesigner
+
+- ParaTransmit：不同界面之间参数传递
+- SaveAxesAsImage：坐标轴保存成图片
+- SimpleCal：简单计算器
+- SimpleImageToData：简单图片曲线数据提取工具
+- SimpleMemo：简单备忘录工具
+- SimpleQRcode：简单二维码工具
+
+## Demos
+
+- DemoCharCount：字符串中字符类型统计
+- DemoCircleFitByTaubin：CircleFitByTaubin方法拟合圆
+- DemoCVX：CVX工具箱求解凸优化问题
+- DemoDynamicCurve：动态趋势线可视化
+- DemoErrorBar：带有误差线的柱状图
+- DemoExcelOLE：OLE方式写入Excel实例
+- DemoFactorial：阶乘函数设计
+- DemoFractalLeaf：分形树叶图
+- DemoFullFigure：坐标轴铺满figure
+- DemoGaussFittingSpotCenter：高斯拟合法确定光斑中心
+- DemoGenerateRandomCircle：指定区域生成不想交不想切随机圆
+- DemoGIFMaker：制作GIF动图
+- DemoIllConditionedLinearEquations：求解病态线性方程组
+- DemoImageMoveWithCurve：图片沿特定轨迹运动
+- DemoLegend：legend显示问题
+- DemoLibsvm：libsvm工具箱
+- DemoLineArrow：绘制带箭头曲线
+- DemoLinesFilling：曲线之间填充
+- DemoMultiColormap：一个figure里显示不同colormap的伪彩图
+- DemoMultiVariatePolynomialFitting：多元多项式拟合问题
+- DemoMultiYAxes：绘制多个y轴
+- DemoPdfRead：利用 pdfbox 读取 PDF 并提取特定字段 
+- DemoPerms：数字排列组合
+- DemoSpherePanelModel：球板模型图
+- DemoSpiralPolygon：旋转多边形
+- DemoStreamLineArrow：绘制带有箭头的流线
+- DemoSurfaceCut：曲面裁剪
+- DemoTrapezoidalNumericalIntegral：Trapezoidal 数值积分问题
+- DemoVectorMap3D：三维矢量场图
+- DemoVideoReader：读取视频每一帧
+- DemoWordOLE：OLE方式写入Word案例
+
+## ImageProcessing
+
+- RegionBoundary：区域边界
+- RegionGrowing：区域生长
+- ThresholdMaxEntropy：最大熵
+- ThresholdOtsu：大津法Otsu
+
+## MachineLearning
+
+- 
+
+## NumericalAnalysis
+
+- BinarySearch：二分法搜索
+- Gaussian：Gauss 消元求解线性方程组
+- GaussJordan：Gauss-Jordan 求解线性方程组
+- Simpson：Simpson 积分
 
 
+## OptimizationAlgorithm
 
-## 小程序
-
-1. 圆拟合；
-2. figure铺满；
-3. 分形树叶；
-4. 高斯拟合光斑；
-5. gif动图制作；
-6. 特殊legend显示；
-7. Matlab导出Excel；
-8. Matlab导出Word；
-9. 图像沿曲线运动动画；
-10. 多坐标轴；
-11. 显示部分曲面图；
-12. 简单的水印提取；
-
-## GUI 案例
-
-1. 简易备忘录；
-2. 简易二维码；
-3. 简易文献数据提取工具；
-
-## 数值分析
-
-### 插值
-
-1. 拉格朗日插值；
-
-### 解方程
-
-1. SSOR求解线性方程组；
-
-2. 黄金分割法求解非线性方程；
-
-3. 二分法求解非线性方程；
-
-4. 牛顿下山法求解非线性方程组；
-
-### 矩阵分析
-
-1. 基于Householder变换的QR分解；
-
-### 最优化
-
-1. 进退法搜索最小值区间；
-2. 黄金分割法求极小值；
-3. 黄金分割法求极小值（递归法）；
-4. 二次差值法求极小值；
-5. 随机游走法求极小值；
-6. 一维线搜索：Armijo准则；
-7. 一维线搜索：Wolfe准则；
-8. 一维线搜索：Goldstein准则；
-9. BFGS求解无约束问题；
-10. Broyden族求解无约束问题；
-11. FR非线性共轭梯度法求解无约束问题；
-12. 修正牛顿法求解无约束问题；
-13. 单纯形法求解多维无约束问题；
-14. Dog-Leg信頼域；
-15. BFGS信頼域求解无约束问题；
-16. Newton信頼域求解无约束问题；
-17. 路径跟踪法求解二次规划问题；
-
-### PLS
-
-1. 最大特征值和对应的特征向量；
-2. 左除解方程；
-3. PLS；
-
-
-
-## 图像处理
-
-1. 区域生长；
-2. 边界提取；
-3. 最大熵阈值分割；
-4. 大津法阈值分割；
-
-## 智能优化算法
-
-1. 基础粒子群；
-2. 压缩因子粒子群；
-3. 离散粒子群；
-4. 自然选择粒子群；
-5. 自适应权重粒子群；
-6. 差分进化；
-
-## 机器学习
-
-1. BP预测；
-2. BP滚动预测未来数据；
-3. BP惯性因子；
-4. BP动量项；
-5. ELM分类；
-6. ELM回归；
-7. RBF数据逼近；
-
+- DE：差分进化求解函数极值问题
+- DEint：离散差分进化求解函数极值问题
+- PSO：粒子群算法求解函数极值问题
+- PSOdiscrete：离散粒子群算法求解函数极值问题
+- 
