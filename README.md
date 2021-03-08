@@ -23,6 +23,7 @@ Matlab Code for learning.
 - DemoFullFigure：坐标轴铺满figure
 - DemoGaussFittingSpotCenter：高斯拟合法确定光斑中心
 - DemoGenerateRandomCircle：指定区域生成不想交不想切随机圆
+- DemoGetFilenams：获取目录下所有文件名
 - DemoGIFMaker：制作GIF动图
 - DemoIllConditionedLinearEquations：求解病态线性方程组
 - DemoImageMoveWithCurve：图片沿特定轨迹运动
