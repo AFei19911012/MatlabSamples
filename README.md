@@ -1,5 +1,8 @@
 # MatlabSamples
+
 Matlab Code for learning.
+
+------
 
 ## AppDesigner
 
@@ -14,6 +17,7 @@ Matlab Code for learning.
 
 - DemoCharCount：字符串中字符类型统计
 - DemoCircleFitByTaubin：CircleFitByTaubin方法拟合圆
+- DemoCollatzConjecture：角谷猜想
 - DemoCVX：CVX工具箱求解凸优化问题
 - DemoDynamicCurve：动态趋势线可视化
 - DemoErrorBar：带有误差线的柱状图
@@ -28,7 +32,6 @@ Matlab Code for learning.
 - DemoIllConditionedLinearEquations：求解病态线性方程组
 - DemoImageMoveWithCurve：图片沿特定轨迹运动
 - DemoLegend：legend显示问题
-- DemoLibsvm：libsvm工具箱
 - DemoLineArrow：绘制带箭头曲线
 - DemoLinesFilling：曲线之间填充
 - DemoMultiColormap：一个figure里显示不同colormap的伪彩图
@@ -54,7 +57,15 @@ Matlab Code for learning.
 
 ## MachineLearning
 
-- 
+### SVM
+
+- DemoLibsvmClassify：SVM分类
+- DemoLibsvmPredictionStock：SVM预测上证开盘指数
+
+### LSTM
+
+- DemoLSTM_classify：LSTM分类
+- DemoLSTM_time_series_forecasting：LSTM时序预测
 
 ## NumericalAnalysis
 
