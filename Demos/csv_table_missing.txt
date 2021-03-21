@@ -1,0 +1,6 @@
+LastName,Gender,Age,Height,Weight,吸烟
+Smith,M,38,71,176,1   
+Johnson,M,43,69,163,0   
+Williams,F,38,64,131,0   
+Jones,F, ,67,133,0   
+Brown, , ,64,119,0  

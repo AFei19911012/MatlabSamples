@@ -1,0 +1,3 @@
+M 45 45 NY true
+F 41 32 CA false
+M 40 34 MA false
