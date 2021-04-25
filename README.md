@@ -22,6 +22,7 @@ Matlab Code for learning.
 - DemoCircleFitByTaubin：CircleFitByTaubin方法拟合圆
 - DemoCollatzConjecture：角谷猜想
 - DemoCVX：CVX工具箱求解凸优化问题
+- DemoDrawFunction：函数方程可视化
 - DemoDynamicCurve：动态趋势线可视化
 - DemoErrorBar：带有误差线的柱状图
 - DemoExcelOLE：OLE方式写入Excel实例
@@ -29,6 +30,7 @@ Matlab Code for learning.
 - DemoFactorial：阶乘函数设计
 - DemoFractalLeaf：分形树叶图
 - DemoFullFigure：坐标轴铺满figure
+- DemoFunctionsFilling：多函数曲线填充
 - DemoGaussFittingSpotCenter：高斯拟合法确定光斑中心
 - DemoGenerateRandomCircle：指定区域生成不想交不想切随机圆
 - DemoGenFolder：按要求生成文件夹和文件
@@ -40,11 +42,13 @@ Matlab Code for learning.
 - DemoLegend：legend显示问题
 - DemoLineArrow：绘制带箭头曲线
 - DemoLinesFilling：曲线之间填充
+- DemoMoleculeModel：甲烷分子模型
 - DemoMultiColormap：一个figure里显示不同colormap的伪彩图
 - DemoMultiVariatePolynomialFitting：多元多项式拟合问题
 - DemoMultiYAxes：绘制多个y轴
 - DemoPdfRead：利用 pdfbox 读取 PDF 并提取特定字段 
 - DemoPerms：数字排列组合
+- DemoRandomPointInCircle：随机圆里生成随机点
 - DemoSpherePanelModel：球板模型图
 - DemoSpiralPolygon：旋转多边形
 - DemoStreamLineArrow：绘制带有箭头的流线
@@ -82,15 +86,20 @@ Matlab Code for learning.
 - GaussJordan：Gauss-Jordan 求解线性方程组
 - Gold：黄金分割法求解非线性方程
 - Lagrange：拉格朗日插值
+- Newton：牛顿法求解非线性方程
 - NewtonDown：牛顿下山法求解非线性方程组
 - Simpson：Simpson 积分
 - SSOR：对超松弛迭代法求解线性方程组
 
-
 ## OptimizationAlgorithm
+
+### DE
 
 - DE：差分进化求解函数极值问题
 - DEint：离散差分进化求解函数极值问题
+
+### PSO
+
 - PSO：粒子群算法求解函数极值问题
 - PSOdiscrete：离散粒子群算法求解函数极值问题
 - 
