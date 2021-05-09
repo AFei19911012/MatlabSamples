@@ -29,6 +29,7 @@ Matlab Code for learning.
 - DemoExponentColorbar：科学计数法Colorbar
 - DemoFactorial：阶乘函数设计
 - DemoFractalLeaf：分形树叶图
+- DemoFractal：Newton-Raphson、Julia分形
 - DemoFullFigure：坐标轴铺满figure
 - DemoFunctionsFilling：多函数曲线填充
 - DemoGaussFittingSpotCenter：高斯拟合法确定光斑中心
@@ -48,7 +49,9 @@ Matlab Code for learning.
 - DemoMultiYAxes：绘制多个y轴
 - DemoPdfRead：利用 pdfbox 读取 PDF 并提取特定字段 
 - DemoPerms：数字排列组合
+- DemoPlotLineArrow：绘制带箭头曲线
 - DemoRandomPointInCircle：随机圆里生成随机点
+- DemoReplaceWithZero：连续3个（或以上）相同数字改为0
 - DemoSpherePanelModel：球板模型图
 - DemoSpiralPolygon：旋转多边形
 - DemoStreamLineArrow：绘制带有箭头的流线
