@@ -2,6 +2,8 @@
 
 Matlab Code for learning.
 
+https://www.zhihu.com/people/1105936347
+
 案例分析、图像处理、机器学习、数值分析、最优化算法等内容
 
 ------
