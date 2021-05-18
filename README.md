@@ -19,6 +19,7 @@ https://www.zhihu.com/people/1105936347
 
 ## Demos
 
+- Demo3DimageMap：3D 球面贴图
 - Demo4Dslice：4D 图的 slice 切片显示
 - DemoCharCount：字符串中字符类型统计
 - DemoCircleFitByTaubin：CircleFitByTaubin方法拟合圆
@@ -35,7 +36,7 @@ https://www.zhihu.com/people/1105936347
 - DemoFullFigure：坐标轴铺满figure
 - DemoFunctionsFilling：多函数曲线填充
 - DemoGaussFittingSpotCenter：高斯拟合法确定光斑中心
-- DemoGenerateRandomCircle：指定区域生成不想交不想切随机圆
+- DemoGenerateRandomCircle：指定区域生成不相交不相切的随机圆
 - DemoGenFolder：按要求生成文件夹和文件
 - DemoGetFilenams：获取目录下所有文件名
 - DemoGIFMaker：制作GIF动图
@@ -54,6 +55,7 @@ https://www.zhihu.com/people/1105936347
 - DemoPlotLineArrow：绘制带箭头曲线
 - DemoRandomPointInCircle：随机圆里生成随机点
 - DemoReplaceWithZero：连续3个（或以上）相同数字改为0
+- DemoSpecialMatix：构造特殊矩阵
 - DemoSpherePanelModel：球板模型图
 - DemoSpiralPolygon：旋转多边形
 - DemoStreamLineArrow：绘制带有箭头的流线
@@ -82,6 +84,13 @@ https://www.zhihu.com/people/1105936347
 
 - DemoLSTM_classify：LSTM分类
 - DemoLSTM_time_series_forecasting：LSTM时序预测
+
+### ML
+
+图解机器学习
+
+- UnsupervisedRegression：有监督回归
+- 
 
 ## NumericalAnalysis
 
