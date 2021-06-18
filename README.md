@@ -4,7 +4,9 @@ Matlab Code for learning.
 
 https://www.zhihu.com/people/1105936347
 
-案例分析、图像处理、机器学习、数值分析、最优化算法等内容
+案例分析、图像处理、机器学习、数值分析、最优化算法等内容；
+
+仅供学习参考，欢迎 Matlab 爱好者分享新的案例。
 
 ------
 
@@ -43,6 +45,7 @@ https://www.zhihu.com/people/1105936347
 - DemoIllConditionedLinearEquations：求解病态线性方程组
 - DemoImageMoveWithCurve：图片沿特定轨迹运动
 - DemoJointAxes：看起来像两个拼起来的图形绘制
+- DemoLaTex：LaTeX 文本
 - DemoLegend：legend显示问题
 - DemoLineArrow：绘制带箭头曲线
 - DemoLinesFilling：曲线之间填充
@@ -55,6 +58,7 @@ https://www.zhihu.com/people/1105936347
 - DemoPlotLineArrow：绘制带箭头曲线
 - DemoRandomPointInCircle：随机圆里生成随机点
 - DemoReplaceWithZero：连续3个（或以上）相同数字改为0
+- DemoRoseNumber：四叶玫瑰数
 - DemoSpecialMatix：构造特殊矩阵
 - DemoSpherePanelModel：球板模型图
 - DemoSpiralPolygon：旋转多边形
@@ -87,23 +91,21 @@ https://www.zhihu.com/people/1105936347
 
 ### ML
 
-图解机器学习
-
-- UnsupervisedRegression：有监督回归
+- SupervisedRegression：【图解机器学习】有监督回归
 - 
 
 ## NumericalAnalysis
 
-- BinarySearch：二分法搜索
-- Bisection：二分法求解非线性方程
-- Gaussian：Gauss 消元求解线性方程组
-- GaussJordan：Gauss-Jordan 求解线性方程组
-- Gold：黄金分割法求解非线性方程
-- Lagrange：拉格朗日插值
-- Newton：牛顿法求解非线性方程
-- NewtonDown：牛顿下山法求解非线性方程组
-- Simpson：Simpson 积分
-- SSOR：对超松弛迭代法求解线性方程组
+- DemoBinarySearch：二分法搜索
+- DemoBisection：二分法求解非线性方程
+- DemoGaussian：Gauss 消元求解线性方程组
+- DemoGaussJordan：Gauss-Jordan 求解线性方程组
+- DemoGold：黄金分割法求解非线性方程
+- DemoLagrange：拉格朗日插值
+- DemoNewton：牛顿法求解非线性方程
+- DemoNewtonDown：牛顿下山法求解非线性方程组
+- DemoSimpson：Simpson 积分
+- DemoSSOR：对超松弛迭代法求解线性方程组
 
 ## OptimizationAlgorithm
 
