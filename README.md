@@ -79,9 +79,11 @@ https://www.zhihu.com/people/1105936347
 
 ## MachineLearning
 
-### SBP
+### BP
 
 - DemoBPprediction：BP 数据预测
+- DemoBPpredictionFuture：BP 滚动预测未来数据
+- DemoBPinertiaPrediction：带惯性系数的 BP 数据预测
 
 ### SVM
 
