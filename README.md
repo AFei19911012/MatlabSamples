@@ -96,7 +96,8 @@ https://www.zhihu.com/people/1105936347
 ### ML
 
 - SupervisedRegression：【图解机器学习】有监督回归
-- 
+- DemoELMclassification：ELM 极限学习机数据分类
+- DemoELMregression：ELM 极限学习机数据回归
 
 ## NumericalAnalysis
 
