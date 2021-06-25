@@ -79,6 +79,10 @@ https://www.zhihu.com/people/1105936347
 
 ## MachineLearning
 
+### SBP
+
+- DemoBPprediction：BP 数据预测
+
 ### SVM
 
 - DemoLibsvmClassify：SVM分类
