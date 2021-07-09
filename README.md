@@ -84,6 +84,7 @@ https://www.zhihu.com/people/1105936347
 - DemoBPprediction：BP 数据预测
 - DemoBPpredictionFuture：BP 滚动预测未来数据
 - DemoBPinertiaPrediction：带惯性系数的 BP 数据预测
+- DemoBPmomentumClassification：带动量项的 BP 神经网络语音识别
 
 ### SVM
 
