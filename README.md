@@ -1,26 +1,28 @@
 # MatlabSamples
 
-Matlab Code for learning.
+```
+Matlab samples for learning
 
-https://www.zhihu.com/people/1105936347
-
-案例分析、图像处理、机器学习、数值分析、最优化算法等内容；
-
-个人学习使用。
+Blog:   https://www.zhihu.com/people/1105936347
+Github: https://github.com/AFei19911012/MatlabSamples
+```
 
 ------
 
 ## AppDesigner
 
+```
 - ParaTransmit：不同界面之间参数传递
 - SaveAxesAsImage：坐标轴保存成图片
 - SimpleCal：简单计算器
 - SimpleImageToData：简单图片曲线数据提取工具
 - SimpleMemo：简单备忘录工具
 - SimpleQRcode：简单二维码工具
+```
 
 ## Demos
 
+```
 - Demo3DimageMap：3D 球面贴图
 - Demo4Dslice：4D 图的 slice 切片显示
 - DemoCharCount：字符串中字符类型统计
@@ -48,6 +50,7 @@ https://www.zhihu.com/people/1105936347
 - DemoLaTex：LaTeX 文本
 - DemoLegend：legend显示问题
 - DemoLineArrow：绘制带箭头曲线
+- DemoLineColorChanging：曲线渐变色、填充渐变色
 - DemoLinesFilling：曲线之间填充
 - DemoMoleculeModel：甲烷分子模型
 - DemoMultiColormap：一个figure里显示不同colormap的伪彩图
@@ -69,41 +72,53 @@ https://www.zhihu.com/people/1105936347
 - DemoVectorMap3D：三维矢量场图
 - DemoVideoReader：读取视频每一帧
 - DemoWordOLE：OLE方式写入Word案例
+```
 
 ## ImageProcessing
 
+```
 - RegionBoundary：区域边界
 - RegionGrowing：区域生长
 - ThresholdMaxEntropy：最大熵
 - ThresholdOtsu：大津法Otsu
+```
 
 ## MachineLearning
 
 ### BP
 
+```
 - DemoBPprediction：BP 数据预测
 - DemoBPpredictionFuture：BP 滚动预测未来数据
 - DemoBPinertiaPrediction：带惯性系数的 BP 数据预测
 - DemoBPmomentumClassification：带动量项的 BP 神经网络语音识别
+```
 
 ### SVM
 
+```
 - DemoLibsvmClassify：SVM分类
 - DemoLibsvmPredictionStock：SVM预测上证开盘指数
+```
 
 ### LSTM
 
+```
 - DemoLSTM_classify：LSTM分类
 - DemoLSTM_time_series_forecasting：LSTM时序预测
+```
 
 ### ML
 
+```
 - SupervisedRegression：【图解机器学习】有监督回归
 - DemoELMclassification：ELM 极限学习机数据分类
 - DemoELMregression：ELM 极限学习机数据回归
+```
 
 ## NumericalAnalysis
 
+```
 - DemoBinarySearch：二分法搜索
 - DemoBisection：二分法求解非线性方程
 - DemoGaussian：Gauss 消元求解线性方程组
@@ -114,16 +129,21 @@ https://www.zhihu.com/people/1105936347
 - DemoNewtonDown：牛顿下山法求解非线性方程组
 - DemoSimpson：Simpson 积分
 - DemoSSOR：对超松弛迭代法求解线性方程组
+```
 
 ## OptimizationAlgorithm
 
 ### DE
 
+```
 - DE：差分进化求解函数极值问题
 - DEint：离散差分进化求解函数极值问题
+```
 
 ### PSO
 
+```
 - PSO：粒子群算法求解函数极值问题
 - PSOdiscrete：离散粒子群算法求解函数极值问题
-- 
+```
+
