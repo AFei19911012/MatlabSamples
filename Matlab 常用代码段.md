@@ -120,6 +120,8 @@ Eq = sin(f)*u^2 + u + f;
 sol = solve(Eq, u)
 sol_num = double(sol)
 sol_num = vpa(sol)
+% 符号替换数字
+sol = subs(sol, f, 3)
 ```
 
 # 10. 公式格式化输出到公式编辑器
@@ -270,7 +272,35 @@ set(gca, 'xlim', [0 10e4]);
 set(gca, 'xlim', [0 10e5]);
 ```
 
+# 19. colorbar 设置指数上标
 
+```matlab
+clear;clc;
+[x, y, z] = peaks(30);
+z = z / 1000;
+surf(x, y, z);
+cb = colorbar;
+cb.Ruler.Exponent = -3;
+```
+
+# 20. 坐标轴铺满 figure
+
+```matlab
+clear;clc;close all;
+x = 0 : 0.1 : 5;
+y1 = sin(2*x);
+y2 = cos(3*x);
+figure
+plot(x, y1, 'o:', 'LineWidth', 2)
+xlabel('x');
+ylabel('y');
+set(gca, 'looseInset', [0 0 0 0]);
+figure
+plot(x, y2, 'o:', 'LineWidth', 2)
+xlabel('x');
+ylabel('y');
+set(gca, 'Position', [0.1 0.1 0.85 0.85]);
+```
 
 
 
