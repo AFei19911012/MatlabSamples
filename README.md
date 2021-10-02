@@ -21,6 +21,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - Tictactoe：井字棋
 ```
 
+![简易计算器](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/SimpleCal/SimpleCal.gif)
+
+![简易图像曲线数据提取器](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/SimpleImageToData/SimpleImageToData.jpg)
+
+
+
 ## Demos
 
 ```
