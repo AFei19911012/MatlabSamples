@@ -25,7 +25,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![简易图像曲线数据提取器](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/SimpleImageToData/SimpleImageToData.jpg)
 
-
+![井字棋游戏](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/Tictactoe/Tictactoe.gif)
 
 ## Demos
 
@@ -80,12 +80,54 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoWordOLE：OLE方式写入Word案例
 ```
 
+![旋转球面贴图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/Demo3DimageMap.gif)
+
+![4D图像切片显示](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/Demo4Dslice.png)
+
+![拟合圆](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoCircleFitByTaubin.png)
+
+![动态曲线可视化](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoDynamicCurve.gif)
+
+![误差限柱状图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoErrorBar.png)
+
+![分形图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoFractal.png)
+
+![函数曲线填充](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoFunctionsFilling.png)
+
+![高斯光斑拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoGaussFittingSpotCenter.png)
+
+![曲线渐变色](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoLineColorChanging.png)
+
+![曲线之间填充](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoLinesFilling.png)
+
+![分子模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMoleculeModel.png)
+
+![多坐标轴](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiYAxes.png)
+
+![多Colormap](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiColormap.png)
+
+![带箭头曲线](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoPlotLineArrow.png)
+
+![球板模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSpherePanelModel.png)
+
+![旋转多边形](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSpiralPolygon.png)
+
+![带箭头流线](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoStreamLineArrow.png)
+
+![曲面裁剪](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSurfaceCut.png)
+
+![3D矢量图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoVectorMap3D.png)
+
 ## ImageProcessing
 
 ```
 - DemoRegionGrowing：区域生长、区域边界
 - DemoThreshold：最大熵、大津法 Otsu
 ```
+
+![区域生长、区域边界](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoRegionGrowing.png)
+
+![最大熵、大津法Otsu](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoThreshold.png)
 
 ## MachineLearning
 
@@ -98,12 +140,22 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoBPmomentumClassification：带动量项的 BP 神经网络语音识别
 ```
 
+![BP分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPmomentumClassification.png)
+
+![BP预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPprediction.png)
+
+![BP预测未来数据](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPpredictionFuture.png)
+
 ### SVM
 
 ```
 - DemoLibsvmClassify：SVM分类
 - DemoLibsvmPredictionStock：SVM预测上证开盘指数
 ```
+
+![SVM分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/SVM/DemoLibsvmClassify.png)
+
+![SVM预测上证开盘指数](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/SVM/DemoLibsvmPredictionStock.png)
 
 ### LSTM
 
@@ -112,6 +164,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoLSTM_time_series_forecasting：LSTM时序预测
 ```
 
+![LSTM分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_classify.png)
+
+![LSTM时序预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_time_series_forecasting.png)
+
 ### ML
 
 ```
@@ -119,6 +175,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoELMclassification：ELM 极限学习机数据分类
 - DemoELMregression：ELM 极限学习机数据回归
 ```
+
+![ELM回归](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/ML/DemoELMregression.png)
+
+![监督学习](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/ML/SupervisedRegression.png)
 
 ## NumericalAnalysis
 
@@ -137,6 +197,14 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoSSOR：对超松弛迭代法求解线性方程组
 ```
 
+![二分法求根](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoBisection.png)
+
+![Euler法](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoEuler.png)
+
+![拉格朗日插值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoLagrange.png)
+
+![洛伦兹曲线](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoLorenz.png)
+
 ## OptimizationAlgorithm
 
 ```
@@ -150,3 +218,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - SSA：樽海鞘优化算法
 - WOA：鲸鱼优化算法
 ```
+
+![最小二乘曲线拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/CurveFitting.png)
+
+![离散差分进化算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/DEdiscrete.png)
+
+![离散粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSOdiscrete.png)
+
+![粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSO.png)
+
