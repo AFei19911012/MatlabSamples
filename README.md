@@ -18,6 +18,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - SimpleImageToData：简单图片曲线数据提取工具
 - SimpleMemo：简单备忘录工具
 - SimpleQRcode：简单二维码工具
+- Tictactoe：井字棋
 ```
 
 ## Demos
@@ -33,7 +34,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoDynamicCurve：动态趋势线可视化
 - DemoErrorBar：带有误差线的柱状图
 - DemoExcelOLE：OLE方式写入Excel实例
-- DemoExponentColorbar：科学计数法Colorbar
+- DemoExponentColorbar：科学计数法 Colorbar
 - DemoFactorial：阶乘函数设计
 - DemoFractalLeaf：分形树叶图
 - DemoFractal：Newton-Raphson、Julia分形
@@ -49,7 +50,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoJointAxes：看起来像两个拼起来的图形绘制
 - DemoLaTex：LaTeX 文本
 - DemoLegend：legend显示问题
-
 - DemoLineColorChanging：曲线渐变色、填充渐变色
 - DemoLinesFilling：曲线之间填充
 - DemoMoleculeModel：甲烷分子模型
@@ -77,10 +77,8 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ## ImageProcessing
 
 ```
-- RegionBoundary：区域边界
-- RegionGrowing：区域生长
-- ThresholdMaxEntropy：最大熵
-- ThresholdOtsu：大津法Otsu
+- DemoRegionGrowing：区域生长、区域边界
+- DemoThreshold：最大熵、大津法 Otsu
 ```
 
 ## MachineLearning
@@ -121,10 +119,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ```
 - DemoBinarySearch：二分法搜索
 - DemoBisection：二分法求解非线性方程
+- DemoEuler：显式 Euler、隐式 Euler、改进 Euler、Runge-kutta
 - DemoGaussian：Gauss 消元求解线性方程组
 - DemoGaussJordan：Gauss-Jordan 求解线性方程组
 - DemoGold：黄金分割法求解非线性方程
 - DemoLagrange：拉格朗日插值
+- DemoLorenz：洛伦兹曲线
 - DemoNewton：牛顿法求解非线性方程
 - DemoNewtonDown：牛顿下山法求解非线性方程组
 - DemoSimpson：Simpson 积分
@@ -133,17 +133,14 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ## OptimizationAlgorithm
 
-### DE
-
 ```
-- DE：差分进化求解函数极值问题
-- DEint：离散差分进化求解函数极值问题
+- CurveFitting：最小二乘曲线拟合通用方法
+- DE：差分进化算法
+- DEdiscrete：离散差分进化算法
+- GWO：鲸鱼优化算法
+- GWOCS：鲸鱼-布谷鸟算法
+- PSO：粒子群算法
+- PSOdiscrete：离散粒子群算法
+- SSA：樽海鞘优化算法
+- WOA：鲸鱼优化算法
 ```
-
-### PSO
-
-```
-- PSO：粒子群算法求解函数极值问题
-- PSOdiscrete：离散粒子群算法求解函数极值问题
-```
-

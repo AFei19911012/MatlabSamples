@@ -1,5 +1,7 @@
 # Matlab 常用代码段
 
+持续更新：https://zhuanlan.zhihu.com/p/408388753
+
 [TOC]
 
 # 1. 随机数、随机噪声
