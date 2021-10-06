@@ -194,11 +194,18 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoNewton：牛顿法求解非线性方程
 - DemoNewtonDown：牛顿下山法求解非线性方程组
 - DemoOptAdvanceRetreat：进退法确定搜索最小值区间
+- DemoOptBFGS：BFGS 算法求解无约束问题
+- DemoOptBroyden：Broyden 族算法求解无约束问题
+- DemoOptFRCG：FR 非线性共轭梯度法求解无约束问题
 - DemoOptGold：黄金分割法求区间最小值点
 - DemoOptNelderMead：单纯形法求解多维无约束问题
 - DemoOptQuadratic：二次插值法求解极值
 - DemoOptReviseNewton：修正牛顿法求解无约束问题
+- DemoOptTrustRegion：信頼域算法实现数据拟合
+- DemoOptTrustRegionBFGS：BFGS 信赖域方法求解函数极小值
+- DemoOptTrustRegionNewton：牛顿型信赖域方法求解无约束问题
 - DemoPLSRegress：PLS 回归
+-DemoSearchCriterion：一维线搜索 Armijo, Goldstein, Wolfe 准则
 - DemoSimpson：Simpson 积分
 - DemoSSOR：对超松弛迭代法求解线性方程组
 ```
