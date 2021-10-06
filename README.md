@@ -224,6 +224,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![二次插值法求解极值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptQuadratic.png)
 
+![信頼域算法实现数据拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptTrustRegion.png)
+
+![BFGS 信赖域方法求解函数极小值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptTrustRegionBFGS.png)
+
 ## OptimizationAlgorithm
 
 ```
