@@ -211,6 +211,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![洛伦兹曲线](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoLorenz.png)
 
+![进退法确定搜索最小值区间](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptAdvanceRetreat.png)
+
+![黄金分割法求区间最小值点](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptGold.png)
+
+![二次插值法求解极值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptQuadratic.png)
+
 ## OptimizationAlgorithm
 
 ```
@@ -236,3 +242,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSO.png)
 
+
+
+![随机行走法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/RandWalk.png)
