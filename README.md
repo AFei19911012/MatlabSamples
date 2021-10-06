@@ -230,7 +230,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - RandWalk：随机行走法
 - SSA：樽海鞘优化算法
 - STA：状态转移算法
-- STAimproved：改进状态
+- STAimproved：改进状态转移算法
 - WOA：鲸鱼优化算法
 ```
 
@@ -241,7 +241,5 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ![离散粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSOdiscrete.png)
 
 ![粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSO.png)
-
-
 
 ![随机行走法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/RandWalk.png)
