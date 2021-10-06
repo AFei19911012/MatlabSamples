@@ -193,6 +193,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoLorenz：洛伦兹曲线
 - DemoNewton：牛顿法求解非线性方程
 - DemoNewtonDown：牛顿下山法求解非线性方程组
+- DemoOptAdvanceRetreat：进退法确定搜索最小值区间
+- DemoOptGold：黄金分割法求区间最小值点
+- DemoOptNelderMead：单纯形法求解多维无约束问题
+- DemoOptQuadratic：二次插值法求解极值
+- DemoOptReviseNewton：修正牛顿法求解无约束问题
+- DemoPLSRegress：PLS 回归
 - DemoSimpson：Simpson 积分
 - DemoSSOR：对超松弛迭代法求解线性方程组
 ```
@@ -215,7 +221,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - GWOCS：鲸鱼-布谷鸟算法
 - PSO：粒子群算法
 - PSOdiscrete：离散粒子群算法
+- RandWalk：随机行走法
 - SSA：樽海鞘优化算法
+- STA：状态转移算法
+- STAimproved：改进状态
 - WOA：鲸鱼优化算法
 ```
 
