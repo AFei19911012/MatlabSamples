@@ -234,14 +234,18 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - CurveFitting：最小二乘曲线拟合通用方法
 - DE：差分进化算法
 - DEdiscrete：离散差分进化算法
+- DEfittingExp：差分进化算法实现指数拟合
 - GWO：鲸鱼优化算法
 - GWOCS：鲸鱼-布谷鸟算法
 - PSO：粒子群算法
 - PSOdiscrete：离散粒子群算法
+- PSOfittingExp：压缩因子粒子群算法实现指数拟合
 - RandWalk：随机行走法
+- SAfittingExp：模拟退火算法实现指数拟合
 - SSA：樽海鞘优化算法
 - STA：状态转移算法
 - STAimproved：改进状态转移算法
+- T2inversion：NMR
 - WOA：鲸鱼优化算法
 ```
 
