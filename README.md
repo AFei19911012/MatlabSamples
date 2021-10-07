@@ -128,13 +128,28 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ## ImageProcessing
 
 ```
+- DemoBeltrami：Beltrami 图像滤波
+- DemoNlm1D：一维信号非局部均值 NLM 滤波
+- DemoNlm2D：非局部均值 NLM 图像滤波
 - DemoRegionGrowing：区域生长、区域边界
 - DemoThreshold：最大熵、大津法 Otsu
+- DemoWavelet1D：一维信号小波滤波
+- DemoWaveletTI：一维信号 TI 小波滤波
 ```
 
 ![区域生长、区域边界](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoRegionGrowing.png)
 
 ![最大熵、大津法Otsu](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoThreshold.png)
+
+![Beltrami 图像滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoBeltrami.png)
+
+![一维信号非局部均值 NLM 滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoNlm1D.png)
+
+![非局部均值 NLM 图像滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoNlm2D.png)
+
+![一维信号小波滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoWavelet1D.png)
+
+![一维信号 TI 小波滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoWaveletTI.png)
 
 ## MachineLearning
 
@@ -210,10 +225,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoOptReviseNewton：修正牛顿法求解无约束问题
 - DemoOptTrustRegion：信頼域算法实现数据拟合
 - DemoOptTrustRegionBFGS：BFGS 信赖域方法求解函数极小值
+- DemoOptTrustRegionDogleg：信頼域算法求解函数极小值
 - DemoOptTrustRegionNewton：牛顿型信赖域方法求解无约束问题
 - DemoPLSRegress：PLS 回归
--DemoSearchCriterion：一维线搜索 Armijo, Goldstein, Wolfe 准则
+- DemoSearchCriterion：一维线搜索 Armijo, Goldstein, Wolfe 准则
 - DemoSimpson：Simpson 积分
+- DemoSpline：三次样条插值法
 - DemoSSOR：对超松弛迭代法求解线性方程组
 ```
 
@@ -235,6 +252,8 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![BFGS 信赖域方法求解函数极小值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptTrustRegionBFGS.png)
 
+![三次样条插值法](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoSpline.png)
+
 ## OptimizationAlgorithm
 
 ```
@@ -250,6 +269,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - PSOfittingExp：压缩因子粒子群算法实现指数拟合
 - RandWalk：随机行走法
 - SAfittingExp：模拟退火算法实现指数拟合
+- SAtsp：模拟退火求解旅行商问题
 - SSA：樽海鞘优化算法
 - STA：状态转移算法
 - STAimproved：改进状态转移算法
@@ -274,3 +294,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ![模拟退火算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/SAfittingExp.png)
 
 ![梯度下降法曲线拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/GradientDescentFitting.png)
+
+![模拟退火求解旅行商问题](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/SAtsp.png)
+
