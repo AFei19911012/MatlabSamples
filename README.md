@@ -51,8 +51,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoGenFolder：按要求生成文件夹和文件
 - DemoGetFilenams：获取目录下所有文件名
 - DemoGIFMaker：制作GIF动图
+- DemoGradientDescent：梯度下降
 - DemoIllConditionedLinearEquations：求解病态线性方程组
 - DemoImageMoveWithCurve：图片沿特定轨迹运动
+- DemoIntegral：积分问题
 - DemoJointAxes：看起来像两个拼起来的图形绘制
 - DemoLaTex：LaTeX 文本
 - DemoLegend：legend显示问题
@@ -60,6 +62,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoLinesFilling：曲线之间填充
 - DemoMoleculeModel：甲烷分子模型
 - DemoMultiColormap：一个figure里显示不同colormap的伪彩图
+- DemoMultiNonLinearRegress：Adagrad 多元非线性回归模型
 - DemoMultiVariatePolynomialFitting：多元多项式拟合问题
 - DemoMultiYAxes：绘制多个y轴
 - DemoPdfRead：利用 pdfbox 读取 PDF 并提取特定字段 
@@ -117,6 +120,10 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ![曲面裁剪](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSurfaceCut.png)
 
 ![3D矢量图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoVectorMap3D.png)
+
+![梯度下降](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoGradientDescent.png)
+
+![Adagrad 多元非线性回归模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiNonLinearRegress.png)
 
 ## ImageProcessing
 
@@ -235,6 +242,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DE：差分进化算法
 - DEdiscrete：离散差分进化算法
 - DEfittingExp：差分进化算法实现指数拟合
+- GradientDescentFitting：梯度下降法曲线拟合
 - GWO：鲸鱼优化算法
 - GWOCS：鲸鱼-布谷鸟算法
 - PSO：粒子群算法
@@ -245,7 +253,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - SSA：樽海鞘优化算法
 - STA：状态转移算法
 - STAimproved：改进状态转移算法
-- T2inversion：NMR
+- T2inversion：NMR T2 反演
 - WOA：鲸鱼优化算法
 ```
 
@@ -258,3 +266,11 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ![粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSO.png)
 
 ![随机行走法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/RandWalk.png)
+
+![差分进化算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/DEfittingExp.png)
+
+![压缩因子粒子群算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSOfittingExp.png)
+
+![模拟退火算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/SAfittingExp.png)
+
+![梯度下降法曲线拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/GradientDescentFitting.png)
