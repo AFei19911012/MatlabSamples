@@ -67,6 +67,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoMultiYAxes：绘制多个y轴
 - DemoPdfRead：利用 pdfbox 读取 PDF 并提取特定字段 
 - DemoPerms：数字排列组合
+- DemoPlot：基础绘图，附带 6 种超好看的淡色
 - DemoPlotLineArrow：绘制带箭头曲线
 - DemoRandomPointInCircle：随机圆里生成随机点
 - DemoReplaceWithZero：连续3个（或以上）相同数字改为0

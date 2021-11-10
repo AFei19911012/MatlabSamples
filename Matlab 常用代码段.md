@@ -1,6 +1,6 @@
 # Matlab 常用代码段
 
-持续更新：https://zhuanlan.zhihu.com/p/408388753
+文件不更新了，文章持续更新：https://zhuanlan.zhihu.com/p/408388753
 
 [TOC]
 
