@@ -126,6 +126,8 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ![Adagrad 多元非线性回归模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiNonLinearRegress.png)
 
+![基础绘图，附带 6 种超好看的淡色](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoPlot.png)
+
 ## ImageProcessing
 
 ```
@@ -183,13 +185,16 @@ Github: https://github.com/AFei19911012/MatlabSamples
 ### LSTM
 
 ```
-- DemoLSTM_classify：LSTM分类
-- DemoLSTM_time_series_forecasting：LSTM时序预测
+- DemoLSTM_classify：LSTM 分类
+- DemoLSTM_prediction: LSTM 预测
+- DemoLSTM_time_series_forecasting：LSTM 时序预测
 ```
 
 ![LSTM分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_classify.png)
 
 ![LSTM时序预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_time_series_forecasting.png)
+
+![LSTM 预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_prediction.png)
 
 ### ML
 
