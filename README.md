@@ -60,6 +60,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoLegend：legend显示问题
 - DemoLineColorChanging：曲线渐变色、填充渐变色
 - DemoLinesFilling：曲线之间填充
+- DemoLoadBatchFiles：批量读取文件
 - DemoMoleculeModel：甲烷分子模型
 - DemoMultiColormap：一个figure里显示不同colormap的伪彩图
 - DemoMultiNonLinearRegress：Adagrad 多元非线性回归模型
