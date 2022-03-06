@@ -9,7 +9,7 @@ Github: https://github.com/AFei19911012/MatlabSamples
 
 ------
 
-懒得更新目录了，关注案例就好  2022-1-18
+案例持续更新，目录暂时不更新了
 
 ## AppDesigner
 
