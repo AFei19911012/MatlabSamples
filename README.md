@@ -1,15 +1,13 @@
 # MatlabSamples
 
-```
-Matlab samples for learning
+Matlab 学习历程，案例记录于此。
 
-Blog:   https://www.zhihu.com/people/1105936347
-Github: https://github.com/AFei19911012/MatlabSamples
-```
+[Blog]: https://www.zhihu.com/people/1105936347	"知乎"
+[Github]: Github:https://github.com/AFei19911012/MatlabSamples	"Github"
+
+[程序运行截图]: https://github.com/AFei19911012/MyPictures	"程序运行截图"
 
 ------
-
-案例持续更新，目录暂时不更新了
 
 ## AppDesigner
 
@@ -22,12 +20,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - SimpleQRcode：简单二维码工具
 - Tictactoe：井字棋
 ```
-
-![简易计算器](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/SimpleCal/SimpleCal.gif)
-
-![简易图像曲线数据提取器](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/SimpleImageToData/SimpleImageToData.jpg)
-
-![井字棋游戏](https://github.com/AFei19911012/MatlabSamples/blob/master/AppDesigner/Tictactoe/Tictactoe.gif)
 
 ## Demos
 
@@ -87,50 +79,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoWordOLE：OLE方式写入Word案例
 ```
 
-![旋转球面贴图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/Demo3DimageMap.gif)
-
-![4D图像切片显示](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/Demo4Dslice.png)
-
-![拟合圆](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoCircleFitByTaubin.png)
-
-![动态曲线可视化](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoDynamicCurve.gif)
-
-![误差限柱状图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoErrorBar.png)
-
-![分形图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoFractal.png)
-
-![函数曲线填充](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoFunctionsFilling.png)
-
-![高斯光斑拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoGaussFittingSpotCenter.png)
-
-![曲线渐变色](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoLineColorChanging.png)
-
-![曲线之间填充](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoLinesFilling.png)
-
-![分子模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMoleculeModel.png)
-
-![多坐标轴](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiYAxes.png)
-
-![多Colormap](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiColormap.png)
-
-![带箭头曲线](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoPlotLineArrow.png)
-
-![球板模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSpherePanelModel.png)
-
-![旋转多边形](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSpiralPolygon.png)
-
-![带箭头流线](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoStreamLineArrow.png)
-
-![曲面裁剪](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoSurfaceCut.png)
-
-![3D矢量图](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoVectorMap3D.png)
-
-![梯度下降](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoGradientDescent.png)
-
-![Adagrad 多元非线性回归模型](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoMultiNonLinearRegress.png)
-
-![基础绘图，附带 6 种超好看的淡色](https://github.com/AFei19911012/MatlabSamples/blob/master/Demos/DemoPlot.png)
-
 ## ImageProcessing
 
 ```
@@ -143,20 +91,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoWaveletTI：一维信号 TI 小波滤波
 ```
 
-![区域生长、区域边界](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoRegionGrowing.png)
-
-![最大熵、大津法Otsu](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoThreshold.png)
-
-![Beltrami 图像滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoBeltrami.png)
-
-![一维信号非局部均值 NLM 滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoNlm1D.png)
-
-![非局部均值 NLM 图像滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoNlm2D.png)
-
-![一维信号小波滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoWavelet1D.png)
-
-![一维信号 TI 小波滤波](https://github.com/AFei19911012/MatlabSamples/blob/master/ImageProcessing/DemoWaveletTI.png)
-
 ## MachineLearning
 
 ### BP
@@ -168,22 +102,12 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoBPmomentumClassification：带动量项的 BP 神经网络语音识别
 ```
 
-![BP分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPmomentumClassification.png)
-
-![BP预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPprediction.png)
-
-![BP预测未来数据](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/BP/DemoBPpredictionFuture.png)
-
 ### SVM
 
 ```
 - DemoLibsvmClassify：SVM分类
 - DemoLibsvmPredictionStock：SVM预测上证开盘指数
 ```
-
-![SVM分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/SVM/DemoLibsvmClassify.png)
-
-![SVM预测上证开盘指数](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/SVM/DemoLibsvmPredictionStock.png)
 
 ### LSTM
 
@@ -193,12 +117,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoLSTM_time_series_forecasting：LSTM 时序预测
 ```
 
-![LSTM分类](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_classify.png)
-
-![LSTM时序预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_time_series_forecasting.png)
-
-![LSTM 预测](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/LSTM/DemoLSTM_prediction.png)
-
 ### ML
 
 ```
@@ -206,10 +124,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoELMclassification：ELM 极限学习机数据分类
 - DemoELMregression：ELM 极限学习机数据回归
 ```
-
-![ELM回归](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/ML/DemoELMregression.png)
-
-![监督学习](https://github.com/AFei19911012/MatlabSamples/blob/master/MachineLearning/ML/SupervisedRegression.png)
 
 ## NumericalAnalysis
 
@@ -243,26 +157,6 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - DemoSSOR：对超松弛迭代法求解线性方程组
 ```
 
-![二分法求根](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoBisection.png)
-
-![Euler法](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoEuler.png)
-
-![拉格朗日插值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoLagrange.png)
-
-![洛伦兹曲线](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoLorenz.png)
-
-![进退法确定搜索最小值区间](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptAdvanceRetreat.png)
-
-![黄金分割法求区间最小值点](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptGold.png)
-
-![二次插值法求解极值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptQuadratic.png)
-
-![信頼域算法实现数据拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptTrustRegion.png)
-
-![BFGS 信赖域方法求解函数极小值](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoOptTrustRegionBFGS.png)
-
-![三次样条插值法](https://github.com/AFei19911012/MatlabSamples/blob/master/NumericalAnalysis/DemoSpline.png)
-
 ## OptimizationAlgorithm
 
 ```
@@ -286,23 +180,144 @@ Github: https://github.com/AFei19911012/MatlabSamples
 - WOA：鲸鱼优化算法
 ```
 
-![最小二乘曲线拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/CurveFitting.png)
+![](D:\MyPrograms\DataSet\MyPictures\Matlab\CurveFitting.png)
 
-![离散差分进化算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/DEdiscrete.png)
+![DEdiscrete](D:\MyPrograms\DataSet\MyPictures\Matlab\DEdiscrete.png)
 
-![离散粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSOdiscrete.png)
+![DEfittingExp](D:\MyPrograms\DataSet\MyPictures\Matlab\DEfittingExp.png)
 
-![粒子群算法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSO.png)
+![Demo3DimageMap](D:\MyPrograms\DataSet\MyPictures\Matlab\Demo3DimageMap.gif)
 
-![随机行走法](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/RandWalk.png)
+![Demo4Dslice](D:\MyPrograms\DataSet\MyPictures\Matlab\Demo4Dslice.png)
 
-![差分进化算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/DEfittingExp.png)
+![DemoBeltrami](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoBeltrami.png)
 
-![压缩因子粒子群算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/PSOfittingExp.png)
+![DemoBisection](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoBisection.png)
 
-![模拟退火算法实现指数拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/SAfittingExp.png)
+![DemoBPmomentumClassification](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoBPmomentumClassification.png)
 
-![梯度下降法曲线拟合](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/GradientDescentFitting.png)
+![DemoBPprediction](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoBPprediction.png)
 
-![模拟退火求解旅行商问题](https://github.com/AFei19911012/MatlabSamples/blob/master/OptimizationAlgorithm/SAtsp.png)
+![DemoBPpredictionFuture](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoBPpredictionFuture.png)
 
+![DemoCircleFitByTaubin](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoCircleFitByTaubin.png)
+
+![DemoColors](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoColors.png)
+
+![DemoColors2](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoColors2.png)
+
+![DemoDynamicCurve](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoDynamicCurve.gif)
+
+![DemoELMregression](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoELMregression.png)
+
+![DemoErrorBar](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoErrorBar.png)
+
+![DemoEuler](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoEuler.png)
+
+![DemoFractal](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoFractal.png)
+
+![DemoFunctionsFilling](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoFunctionsFilling.png)
+
+![DemoGaussFittingSpotCenter](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoGaussFittingSpotCenter.png)
+
+![DemoGradientDescent](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoGradientDescent.png)
+
+![DemoLagrange](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLagrange.png)
+
+![DemoLibsvmClassify](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLibsvmClassify.png)
+
+![DemoLibsvmPredictionStock](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLibsvmPredictionStock.png)
+
+![DemoLineColorChanging](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLineColorChanging.png)
+
+![DemoLinesFilling](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLinesFilling.png)
+
+![DemoLorenz](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLorenz.png)
+
+![DemoLSTM_classify](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLSTM_classify.png)
+
+![DemoLSTM_prediction](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLSTM_prediction.png)
+
+![DemoLSTM_time_series_forecasting](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoLSTM_time_series_forecasting.png)
+
+![DemoMoleculeModel](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoMoleculeModel.png)
+
+![DemoMultiColormap](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoMultiColormap.png)
+
+![DemoMultiNonLinearRegress](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoMultiNonLinearRegress.png)
+
+![DemoMultiYAxes](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoMultiYAxes.png)
+
+![DemoNlm1D](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoNlm1D.png)
+
+![DemoNlm2D](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoNlm2D.png)
+
+![DemoOptAdvanceRetreat](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoOptAdvanceRetreat.png)
+
+![DemoOptGold](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoOptGold.png)
+
+![DemoOptQuadratic](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoOptQuadratic.png)
+
+![DemoOptTrustRegion](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoOptTrustRegion.png)
+
+![DemoOptTrustRegionBFGS](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoOptTrustRegionBFGS.png)
+
+![DemoPlot](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoPlot.png)
+
+![DemoPlotLineArrow](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoPlotLineArrow.png)
+
+![DemoPlottingFigures](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoPlottingFigures.png)
+
+![DemoRandomCircle](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoRandomCircle.png)
+
+![DemoRegionGrowing](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoRegionGrowing.png)
+
+![DemoSlashFilling](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoSlashFilling.png)
+
+![DemoSpherePanelModel](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoSpherePanelModel.png)
+
+![DemoSpiralPolygon](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoSpiralPolygon.png)
+
+![DemoSpline](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoSpline.png)
+
+![DemoStreamLineArrow](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoStreamLineArrow.png)
+
+![DemoSurfaceCut](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoSurfaceCut.png)
+
+![DemoThreshold](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoThreshold.png)
+
+![DemoVectorMap3D](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoVectorMap3D.png)
+
+![DemoWavelet1D](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoWavelet1D.png)
+
+![DemoWaveletTI](D:\MyPrograms\DataSet\MyPictures\Matlab\DemoWaveletTI.png)
+
+![GradientDescentFitting](D:\MyPrograms\DataSet\MyPictures\Matlab\GradientDescentFitting.png)
+
+![ParaTransmit](D:\MyPrograms\DataSet\MyPictures\Matlab\ParaTransmit.png)
+
+![PSO](D:\MyPrograms\DataSet\MyPictures\Matlab\PSO.png)
+
+![PSOdiscrete](D:\MyPrograms\DataSet\MyPictures\Matlab\PSOdiscrete.png)
+
+![PSOfittingExp](D:\MyPrograms\DataSet\MyPictures\Matlab\PSOfittingExp.png)
+
+![RandWalk](D:\MyPrograms\DataSet\MyPictures\Matlab\RandWalk.png)
+
+![SAfittingExp](D:\MyPrograms\DataSet\MyPictures\Matlab\SAfittingExp.png)
+
+![SAtsp](D:\MyPrograms\DataSet\MyPictures\Matlab\SAtsp.png)
+
+![SaveAxesAsImage](D:\MyPrograms\DataSet\MyPictures\Matlab\SaveAxesAsImage.png)
+
+![SimpleCal](D:\MyPrograms\DataSet\MyPictures\Matlab\SimpleCal.gif)
+
+![SimpleImageToData](D:\MyPrograms\DataSet\MyPictures\Matlab\SimpleImageToData.jpg)
+
+![STAimproved](D:\MyPrograms\DataSet\MyPictures\Matlab\STAimproved.png)
+
+![SupervisedRegression](D:\MyPrograms\DataSet\MyPictures\Matlab\SupervisedRegression.png)
+
+![testAnimated](D:\MyPrograms\DataSet\MyPictures\Matlab\testAnimated.gif)
+
+![Tictactoe](D:\MyPrograms\DataSet\MyPictures\Matlab\Tictactoe.gif)
