@@ -9,8 +9,6 @@ Matlab 学习历程，案例记录于此。
 [Blog]: https://www.zhihu.com/people/1105936347	"知乎"
 [Github]: Github:https://github.com/AFei19911012/MatlabSamples	"Github"
 
-[程序运行截图]: https://github.com/AFei19911012/MyPictures	"程序运行截图"
-
 ------
 
 ## AppDesigner
@@ -183,6 +181,8 @@ Matlab 学习历程，案例记录于此。
 - T2inversion：NMR T2 反演
 - WOA：鲸鱼优化算法
 ```
+
+![](https://pic.imgdb.cn/item/6239f31727f86abb2a1ef464.gif)
 
 ![](https://gitee.com/afei1105936347/run_program_images/raw/master/images/Tictactoe.gif)
 ![](https://gitee.com/afei1105936347/run_program_images/raw/master/images/testAnimated.gif)
