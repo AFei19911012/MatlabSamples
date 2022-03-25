@@ -182,6 +182,4 @@ Matlab 学习历程，案例记录于此。
 - WOA：鲸鱼优化算法
 ```
 
-![](https://pic.imgdb.cn/item/6239f31727f86abb2a1ef464.gif)
-
-<img src="https://pic.imgdb.cn/item/6239f31727f86abb2a1ef464.gif">
+<img src="https://pic.imgdb.cn/item/6239f31727f86abb2a1ef45c.gif">
