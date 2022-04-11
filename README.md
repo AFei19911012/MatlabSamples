@@ -2,14 +2,14 @@
 
 # MatlabSamples
 
-Matlab 学习历程，案例记录于此，希望有用 :sweat_smile:
+Matlab 学习历程，案例记录于此  :sweat_smile:
 
-[Blog]: https://www.zhihu.com/people/1105936347	"知乎"
+[Blog]: https://www.zhihu.com/column/c_1491138434131083264	"知乎【Matlab案例代码解析】"
 [Github]: Github:https://github.com/AFei19911012/MatlabSamples	"Github"
 
 ------
 
 # 内容结构
 
-[![qXDfjs.png](https://s1.ax1x.com/2022/04/05/qXDfjs.png)](https://imgtu.com/i/qXDfjs)
+[![LZoUzj.png](https://s1.ax1x.com/2022/04/12/LZoUzj.png)](https://imgtu.com/i/LZoUzj)
 
